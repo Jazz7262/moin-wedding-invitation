@@ -19,6 +19,7 @@
     word-spacing: 5px;
     line-height: 1.5;
     font-family: "Tangerine", cursive;
+    /* font-family: "Great vibes", cursive; */
 }
 
 /* Tablet Wide Screens */
@@ -28,7 +29,7 @@
 /* New Mobile Phones Wide Screens */
 @media (max-width: 428px) {
     #babies-quote {
-            background-size: 100%;
+        background-size: 100%;
     }
     #babies-quote .inner-content {
         padding: 7% 10%;

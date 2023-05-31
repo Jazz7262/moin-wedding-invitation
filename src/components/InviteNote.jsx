@@ -15,8 +15,9 @@ function InviteNote() {
                 </h5>
                 <h5 className="address mb-3">
                     H.No.: 2/129, Bharpet Street,
-                    <br /> Near Mehtar Masjid, Adoni,
-                    <br /> Kurnool Dist., AP - 518 301.
+                    <br /> Near Mehtar Masjid,
+                    <br /> Adoni, Kurnool Dist.,
+                    <br /> AP - 518 301.
                 </h5>
                 <p className="address">
                     Contact: <br />
