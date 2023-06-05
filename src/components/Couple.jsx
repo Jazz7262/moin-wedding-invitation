@@ -173,7 +173,7 @@ function Couple() {
                             <p className="mt-1 mt-lg-2">
                                 Grand S/O Janab{" "}
                                 <strong>
-                                    Al-Haaj K. Abdul Majeed Nizami(Late).
+                                    Al-Haj K. Abdul Majeed Nizami(Late).
                                 </strong>
                             </p>
                             {/* <p className="mt-1 mt-lg-2">
@@ -275,7 +275,7 @@ function Couple() {
                         </div>
                         <div className="info bride-info">
                             <h3>
-                                Noor -e- A'ayin
+                                Noor -e- Ayen
                                 {/* <sub></sub> */}
                             </h3>
                             {/* <p className="mt-2 mt-lg-3">

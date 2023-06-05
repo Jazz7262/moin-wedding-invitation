@@ -39,7 +39,7 @@ function Header() {
                 Under the holy patronage of:
                 <br />
                 Peer - O - Murshid Faqr - e - Dilli, Faqr - e - Hindustan, Dilli
-                Ratan Hazrath Al-Haaj Lehwaja Sayyid Hasan Sani Nizami Saheb
+                Ratan Hazrath Al-Haj Lehwaja Sayyid Hasan Sani Nizami Saheb
                 Dehelvi Rahamatullaahi Alaih.
             </h4>
         </section>

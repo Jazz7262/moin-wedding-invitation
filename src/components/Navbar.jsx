@@ -61,11 +61,11 @@ function Navbar() {
                     data-aso-duration="1500"
                 >
                     K. S. M
-                    <FontAwesomeIcon
+                    {/* <FontAwesomeIcon
                         icon={faHeart}
                         className="icon"
                         size="sm"
-                    />
+                    /> */}
                 </a>
                 <button
                     className="navbar-toggler"

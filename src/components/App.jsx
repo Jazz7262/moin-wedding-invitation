@@ -53,9 +53,9 @@ function App() {
             <Slide />
             <Couple />
             <InvitationQuote />
+            <BabiesQuote />
             <Timeline />
             <CountDown />
-            <BabiesQuote />
             <Compliments />
             <InviteNote />
             <DeveloperInfo />

@@ -5,8 +5,19 @@ function BabiesQuote() {
     return (
         <section id="babies-quote">
             <div className="inner-content">
-                <h1>Heartly Welcome To My Maamu's Wedding ....</h1>
-                <h3>--- G Usman Ali.</h3>
+                <h1>Heartly Welcome To My Mama's Wedding ....</h1>
+                <div className="wrapper">
+                    <div className="d-inline">
+                        <h1 className="maashaallaah mr-lg-5 pr-lg-3 mr-4 pr-2">
+                            ماشاءاللہ
+                        </h1>
+                        <img
+                            src="../assets/images/baby.png"
+                            alt="Baby-Avatar"
+                        />
+                        <h3 className="mt-4">--- G Usman Ali.</h3>
+                    </div>
+                </div>
             </div>
         </section>
     );
